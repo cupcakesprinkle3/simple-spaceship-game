@@ -1,5 +1,6 @@
 # simple-spaceship-game
-Simple spaceship game that I vibe coded using OpenAI Canvas and this Short Course on DeepLearning.AI: Collaborative Writing and Coding with OpenAI Canvas
+
+See the final.html file to view the simple spaceship game that I vibe coded using OpenAI Canvas and this Short Course on DeepLearning.AI: Collaborative Writing and Coding with OpenAI Canvas
 
 Yes, I did upgrade to [ChatGPT Plus](https://chatgpt.com/#pricing) for this (first time!), although I'm not sure it was a requirement (I didn't like the limitations of the free plan).
 
